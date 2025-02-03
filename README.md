@@ -20,7 +20,7 @@
 
 ## 📊 **Minhas Estatísticas no GitHub**  
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel&show_icons=true&theme=radical)  
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferradaes1&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel&layout=compact&theme=radical)  
 
 ---
