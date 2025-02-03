@@ -31,6 +31,12 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferradaes1&theme=radical" />
 </p>
 
+### 📌 Linguagens mais utilizadas:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferradaes1&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
 ---
 
 ## 📬 Contato
