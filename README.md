@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Miguel
 
-<!--
-**Ferradaes1/Ferradaes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, especializado em **JavaScript**, **Python** e criação de **bots para Discord**.
 
-Here are some ideas to get you started:
+📌 **Idade:** 20 anos  
+📌 **Idiomas:** Inglês intermediário (4 anos - YES)  
+📌 **Estudando atualmente:** **HTML, CSS e JavaScript**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Minhas Habilidades**  
+
+- 🔹 **JavaScript** (Front-end & Back-end)  
+- 🔹 **Python** (Automação, bots e sistemas)  
+- 🔹 **Desenvolvimento de Bots para Discord**  
+- 🔹 **Banco de Dados: SQLite**  
+- 🔹 **HTML & CSS** (Criação e estilização de interfaces web)  
+
+---
+
+## 📊 **Minhas Estatísticas no GitHub**  
+
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel&layout=compact&theme=radical)  
+
+---
+
+## 📫 **Onde me encontrar?**  
+
+[![E-mail](https://img.shields.io/badge/Email-mferradaes%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mferradaes@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Miguel-black?style=for-the-badge&logo=github)](https://github.com/miguel)  
+[![Discord](https://img.shields.io/badge/Discord-Entre%20em%20contato-blue?style=for-the-badge&logo=discord)](#) *(adicione seu usuário do Discord aqui!)*  
+
+---
+
+
