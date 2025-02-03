@@ -28,8 +28,7 @@
 ## 📫 **Onde me encontrar?**  
 
 [![E-mail](https://img.shields.io/badge/Email-mferradaes%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mferradaes@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Miguel-black?style=for-the-badge&logo=github)](https://github.com/miguel)  
-[![Discord](https://img.shields.io/badge/Discord-Entre%20em%20contato-blue?style=for-the-badge&logo=discord)](#) *(adicione seu usuário do Discord aqui!)*  
+[![GitHub](https://img.shields.io/badge/GitHub-Miguel-black?style=for-the-badge&logo=github)](https://github.com/Ferradaes1)  
 
 ---
 
