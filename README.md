@@ -42,7 +42,6 @@
 ## 📬 Contato
 
 📧 **E-mail:** [mferradaes@gmail.com](mailto:mferradaes@gmail.com)\
-💬 **Discord:** *(seu usuário aqui)*\
 🐍 **GitHub:** [github.com/Ferradaes1](https://github.com/Ferradaes1)
 
 ---
