@@ -17,19 +17,6 @@ Interesse contínuo em aprender novas tecnologias, aprimorar boas práticas de c
 - Git & GitHub
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<!-- GitHub stats podem ser adicionadas aqui -->
-
----
-
-## 📌 Linguagens mais utilizadas
-
-<!-- Top languages -->
-
----
-
 ## 📬 Contato
 
 📧 **E-mail:** mferradaes@gmail.com  
